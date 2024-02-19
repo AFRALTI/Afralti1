@@ -44,10 +44,9 @@ Accuracy: ±0.5°C for temperature and ±1% for humidity.
 ([Reference Datasheet](https://components101.com/sensors/dht22-pinout-specs-datasheet))
 
 - Images & Diagrams
-| DHT 22 IMAGE | schematic Connection|
-|---------|---------|
-|![DHT22](https://github.com/AFRALTI/Afralti1/assets/52659391/ffd94295-6916-4dbe-9122-dae9080a28d4) | ![Connection Diagram](https://github.com/AFRALTI/Afralti1/assets/52659391/e056e77f-3e4f-42d4-b637-336897a48d8c) |
 
+![DHT22](https://github.com/AFRALTI/Afralti1/assets/52659391/ffd94295-6916-4dbe-9122-dae9080a28d4)
+![Connection Diagram](https://github.com/AFRALTI/Afralti1/assets/52659391/e056e77f-3e4f-42d4-b637-336897a48d8c) |
 
 - Pin Mapping
 
