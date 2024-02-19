@@ -32,11 +32,24 @@ Hardware Connection
 | PB6 |SCL  |
 | PB7  |SDA  |
 
-[# DHT 22]([url](https://components101.com/sensors/dht22-pinout-specs-datasheet))
-![DHT22](https://github.com/AFRALTI/Afralti1/assets/52659391/ffd94295-6916-4dbe-9122-dae9080a28d4) 
-![Connection Diagram](https://github.com/AFRALTI/Afralti1/assets/52659391/e056e77f-3e4f-42d4-b637-336897a48d8c)
+# DHT 22
+- Specifications:
+Operating Voltage: 3.5V to 5.5V
+Operating Current: 0.3mA (measuring) and 60uA (standby)
+Temperature Range: -40°C to 80°C
+Humidity Range: 0% to 100%
+Resolution: Both temperature and humidity have 16-bit resolution.
+Accuracy: ±0.5°C for temperature and ±1% for humidity.
+- Reference Materails
+([Reference Datasheet](https://components101.com/sensors/dht22-pinout-specs-datasheet))
+
+- Images & Diagrams
+| DHT 22 IMAGE | schematic Connection|
+|---------|---------|
+|![DHT22](https://github.com/AFRALTI/Afralti1/assets/52659391/ffd94295-6916-4dbe-9122-dae9080a28d4) | ![Connection Diagram](https://github.com/AFRALTI/Afralti1/assets/52659391/e056e77f-3e4f-42d4-b637-336897a48d8c) |
 
 
+- Pin Mapping
 | STM32 BLUEPILL  | DHT22|
 | ------------- | ------------- |
 | 3.3V  |VCC  |
