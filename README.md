@@ -50,6 +50,7 @@ Accuracy: ±0.5°C for temperature and ±1% for humidity.
 
 
 - Pin Mapping
+
 | STM32 BLUEPILL  | DHT22|
 | ------------- | ------------- |
 | 3.3V  |VCC  |
